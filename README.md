@@ -3,9 +3,6 @@
 > I create mirror git links for cloning my repositories. you can use at https://git.azizah.workers.dev/. Example: `git clone https://git.azizah.workers.dev/Tachyon.git`. This mirror cannot push commit, please use github mirror!
 
 > [!NOTE]
-> PFP create by Ori-Chan on YouTube only. you can subscribe for supporting her. I love she arts 🌷 🌸. https://youtube.com/@ori-chan_jp
-
-> [!NOTE]
 > previous username is UocDev and display name Uoc Azizah, i change to uoctamika and display name Uoc Tamika, please update my repository origin if you clone my repos
 # Welcome to my Github profile
 Uoc Developer is a playful take on "Developer Expectations" With years of experience in software development, I aim to bring my expertise to you. Whether it's Development Roblox Game, building bots,Low-level system, I'm here to make it happen.
